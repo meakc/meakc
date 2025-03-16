@@ -5,8 +5,7 @@ I'm a passionate developer from India who loves building innovative projects and
 ## 🔭 My Pinned Projects
 
 
-- **GRID-6.0** is a project developed as part of the Flipkart GRID initiative. It leverages cutting-edge OCR and image recognition techniques to enhance product packaging analysis and freshness detection for fruits and vegetables.
-  # Key Features: **OCR Extraction**,**Expiry Date Validation**,**Image Recognition**,**Freshness Detection**
+- **GRID-6.0** is a project developed as part of the Flipkart GRID initiative. It leverages cutting-edge OCR and image recognition techniques to enhance product packaging analysis and freshness detection for fruits and vegetables. **Key Features**: **OCR Extraction**,**Expiry Date Validation**,**Image Recognition**,**Freshness Detection**
 
 - **MrLibManager**  
   A JavaScript project designed to simplify library management and dependency handling in your projects.
